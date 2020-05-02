@@ -1,0 +1,29 @@
+{
+  "name": "get-float-time-domain-data-polyfill",
+  "version": "1.0.1",
+  "description": "AnalyserNode.prototype.getFloatTimeDomainData polyfill",
+  "main": "./dist/get-float-time-domain-data-polyfill.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stramanu/get-float-time-domain-data-polyfill.git"
+  },
+  "keywords": [
+    "get-float-time-domain-data",
+    "get-float-time-domain-data-polyfill",
+    "getFloatTimeDomainData",
+    "AnalyserNode",
+    "AudioContext",
+    "polyfill",
+    "shim"
+  ],
+  "author": "Emanuele Strazzullo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stramanu/get-float-time-domain-data-polyfill/issues"
+  },
+  "homepage": "https://github.com/stramanu/get-float-time-domain-data-polyfill#readme"
+}
